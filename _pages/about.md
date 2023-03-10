@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>박서희</a>. Republic of Korea. sh940311@gmail.com.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+철학을 전공한 주니어 [웹 개발자](https://github.com/Joyseohee)입니다. 저는 한국소프트웨어산업협회 클라우드 ERP 개발자 양성 과정을 이수하면서 `Java`, `JavaScript`, `React`, `Spring`, `Python`, `Django`, `PostgreSQL`, `Oracle`, `MariaDB`를 학습했습니다.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+제 프로젝트는 [깃허브 리포지토리](https://github.com/Joyseohee)를 클릭해 확인하실 수 있습니다.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm a junior [web application developer](https://github.com/Joyseohee) with a background in philosophy. I've also completed a bootcamp course to further develop my skills in Java development. Through these courses, I've gained practical experience in building web applications, working with databases, and implementing software solutions using modern programming languages and frameworks.
+
+I have worked extensively with a variety of technologies, including `Java`, `JavaScript`, `React`, `Spring`, `Python`, `Django`, `PostgreSQL`, `Oracle`, `MariaDB`. In addition I also have exerience in developing RESTful API.
+
+Here's my [Github Repository](https://github.com/Joyseohee). You can my project in this Link.
